@@ -54,5 +54,3 @@ Dynamics
       print the population of a particular molecular state. Default is all populations of all molecules.
     file filename
       file to write output to
-  
-(personal note: listened to Tomorrow's Modern Boxes while writing most of this)
